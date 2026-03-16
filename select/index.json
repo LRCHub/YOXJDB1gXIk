@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "強く儚い者たち",
+  "base_artist": "Cocco",
+  "createdAt": "2026-03-16T11:11:15.179681Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "強く儚い者たち",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_強く儚い者たち_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "強く儚い者たち",
+      "artist": "Cocco",
+      "has_synced": true,
+      "path": "select/02_強く儚い者たち_Cocco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "強く儚い者たち - Tsuyoku Hakanai Monotachi",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_強く儚い者たち_-_Tsuyoku_Hakanai_Monotachi_Aimer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "強く儚い者たち",
+      "artist": "Cocco",
+      "has_synced": false,
+      "path": "select/pl_01_強く儚い者たち_Cocco.txt"
+    }
+  ]
+}
